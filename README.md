@@ -14,5 +14,4 @@ Fyll inn SSN og API-credentials.
 * Gris eller annen egnet innkapsling (den på bildet er fra BR Leker: [Sparegris](https://www.br.no/vaare-kategorier/til-barnerommet/bankboks/sparegris-lilla?id=000000000102417002) )
 
 ## Todo
-* Fiks henting av kontoer - når hentes de to første kontoene (og du må ha minst to kontoer, det programmet antar at nr 2 er et kredittkort..)
 * Lag skikkelig datastruktur for lagring av alle kontoer
